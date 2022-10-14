@@ -2,7 +2,6 @@
 
 - 👶🏾 Não tenho tanta experiência pois sou novo na área, mas tenho muita vontade de aprender tudo que puder
 - 🌱 Atualmente estou aprendendo Java
-- 😄 Pronouns: ele/dele
 
 
 <div align="center">
