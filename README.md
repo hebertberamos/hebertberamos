@@ -1,7 +1,8 @@
 ### E aí, beleza?  Eu sou o Hebert 
 
 - 👶🏾 Não tenho tanta experiência pois sou novo na área, mas tenho muita vontade de aprender tudo que puder
-- 🌱 Experiência com o básico de Java 
+- 🌱 Experiência com o Java|HTML5|CSS3
+- Onde encontrar mais sobre mim &#x+1F597
 
 
 <div align="center">
