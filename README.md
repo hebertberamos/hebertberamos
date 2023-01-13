@@ -7,28 +7,6 @@
 <div align="center">
   <a href="https://github.com/hebertberamos">
 
-## 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?hebertberamos=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?hebertberamos=anuraghazra&repo=convoychat" />
-</a>
- 
-##
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?hebertberamos=anuraghazra&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?hebertberamos=anuraghazra&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?hebertberamos=anuraghazra&show_icons=true" />
-</picture>
-    
- ##
 
 <a href="https://www.instagram.com/hebertrb/"  target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href = "mailto:hebertramos09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
