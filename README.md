@@ -1,8 +1,3 @@
-### E aí, beleza?  Eu sou o Hebert 
-
-- Não tenho tanta experiência pois sou novo na área, mas tenho muita vontade de aprender tudo que puder
-- Experiência com o Java|HTML5|CSS3
-
 
 <div align="center">
   <a href="https://github.com/hebertberamos">
